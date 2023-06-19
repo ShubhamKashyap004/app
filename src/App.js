@@ -19,7 +19,7 @@ function App() {
                 <a className="nav-link" href="/">About</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/">Contant Us</a>
+                <a className="nav-link" href="/">Contant gg Us</a>
               </li>
             </ul>
             <form className="d-flex" role="search">
